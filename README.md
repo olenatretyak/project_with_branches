@@ -3,5 +3,5 @@
 ##Headers 
 
 *some italic text*
-** some bold text **
+__ some bold text __
 
